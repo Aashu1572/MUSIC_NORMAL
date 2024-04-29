@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://telegra.ph/file/f20237d3a028a343d595a.jpg">
+  <img src="[https://graph.org/file/1fbf360c405bd0a76f98f.jpg]">
 </p>
 
 <p align="center">
