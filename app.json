@@ -1,7 +1,7 @@
 {
     "name": "ᴀɴɪᴇ x ᴇɪᴄᴀ ᴍᴜꜱɪᴄ ʙᴏᴛ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/b37803a767b15e939513d.png",
+    "logo": "https://telegra.ph/file/be7f1a66e15450b65fd63.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "24509589",
+        "value": "25961801",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "717cf21d94c4934bcbe1eaa1ad86ae75",
+        "value": "c9d39e5cba88255416aad52f0d0e1cd8",
         "required": true
       },
       "BOT_TOKEN": {
@@ -29,17 +29,17 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://piyush2004:piyush2004@cluster0.7w3eadf.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.from @Sophia_x_MusicBot on Telegram.",
-        "value": "5916859256",
+        "value": "7031870310",
         "required": true
       },
     "OWNER": {
         "description": "The user id of user whom you would like to add as OWNER.from @Sophia_x_MusicBot on Telegram.",
-        "value": "5916859256",
+        "value": "7031870310",
         "required": true
       },
     "BOTADDLOGS": {
@@ -49,17 +49,17 @@
       },
      "OWNER_USERNAME": {
         "description": "Add owner username without @",
-        "value": "New_AMBOT",
+        "value": "imStubborn0",
         "required": true
       },
      "SUPPORT_CHANNEL": {
         "description": "Add channel link",
-        "value": "https://t.me/SuperBanSBots",
+        "value": "https://t.me/PDF_Factory",
         "required": true
       },
         "SUPPORT_CHAT": {
         "description": "Add Chat group & support group Link",
-        "value": "https://t.me/AM_YTSUPPORT",
+        "value": "https://t.me/Student_Studys_Group",
         "required": true
       },
       "STRING_SESSION": {
@@ -79,7 +79,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/AbhiModszYT/AnieXEricaMusic",
+        "value": "https://github.com/Aashu1572/MUSIC_NORMAL",
         "required": false
       },
       "UPSTREAM_BRANCH": {
@@ -94,17 +94,17 @@
       },
       "START_IMG_URL": {
         "description": "Your Bot Start Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-        "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+        "value": "https://telegra.ph/file/799c150177b85a00f81f4.jpg",
         "required": false
       },
       "PING_IMG_URL": {
         "description": "Your Bot Ping Check Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-        "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+        "value": "https://telegra.ph/file/be7f1a66e15450b65fd63.jpg",
         "required": false
       },
       "STATS_IMG_URL": {
         "description": "Your Bot Stats Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-        "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+        "value": "https://telegra.ph/file/799c150177b85a00f81f4.jpg",
         "required": false
       },
       "LOGGER_ID": {
