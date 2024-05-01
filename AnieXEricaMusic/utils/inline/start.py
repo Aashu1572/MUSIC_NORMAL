@@ -36,7 +36,7 @@ def private_panel(_):
             InlineKeyboardButton(text=_["S_B_6"], url=config.SUPPORT_CHANNEL),
             InlineKeyboardButton(
                 text=_["S_B_7"],
-                url=f"https://github.com/wwwlbs22/Songxpro/tree/main",
+                url=f"https://t.me/PDF_Factory",
             )
         ],
         [InlineKeyboardButton(text=_["ST_B_3"], callback_data="LG")],
